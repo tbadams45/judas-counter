@@ -1,0 +1,6 @@
+library(tidyverse)
+
+files <- dir("./data/raw")
+files <- tibble(names = files, year = as.double(stringr::str_sub(files, start = 4, end = 7)))
+
+read_csv("./data/raw/yob1880.txt", col_names = c("Name", "Sex", ))

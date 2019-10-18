@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571400650482.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "535A4BC8",
+    "lastKnownWriteTime" : 1571404664,
+    "last_content_update" : 1571404664685,
+    "path" : "~/gits/judas-counter/judas-counter.R",
+    "project_path" : "judas-counter.R",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
